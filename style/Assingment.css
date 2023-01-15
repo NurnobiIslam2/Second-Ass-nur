@@ -1,0 +1,86 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap');
+
+.menu-bar{
+display: flex;
+justify-content: space-between;
+margin: 0% 240px;
+}
+.menu-item{
+    font-size: 18px;
+    width: 500px;
+    display: flex;
+    gap: 20px;
+    font-family: 'Work Sans', sans-serif;
+    color: #131313;
+}
+
+.g3{
+    font-size: 47px;
+    width: 500px;
+    
+    color: #131313;
+
+}
+.explore{
+
+
+}
+.brand{
+   
+    font-size:64px;
+    font-weight: 500px;
+    font-family: 'Work Sans', sans-serif;
+    color: #131313;
+    width: 559px;
+    height: 184px;
+  margin-left:31%;
+
+}
+.group{
+   
+    font-size:64px;
+    font-weight: 500px;
+    font-family: 'Work Sans', sans-serif;
+    color: #131313; 
+    width:632px;
+    height: 75px;
+    margin-left:29%;
+    margin-top: -75px;
+
+}
+.menu-paragrap{
+   font-size: 16px;
+   width: 400px;
+   color: #131313;
+   font-family: 'Work Sans', sans-serif;
+   width: 790px;
+   height: 50px;
+   margin-left:25% ;
+   margin-top: -40px;
+}
+.menu-btn{
+width: 180px;
+height: 64px;
+background-color:#FF900E ;
+color:#FFFFFF ;
+font-size: 20px;
+font-weight: 600px;
+font-family: 'Work Sans', sans-serif;
+border-radius: 5px;
+border: 0px;
+margin: 0px 240px ;
+margin-left: 40%;
+}
+.banner-img{
+margin-left: 8%;
+width: 1400px;
+height: 700px;
+margin-top:50px;
+
+}
+.hide{
+display: none;
+
+}
+
